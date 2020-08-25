@@ -1,6 +1,6 @@
-# Polynomials Evaluation
+# Polynomials Evaluation Data Structure
 
-A C++ Program to calculate the coefficient and exponent of polynomials using linked list
+A C++ program to calculate the coefficient and exponent of polynomials using linked list
 
 ## Terminal's Look
 
