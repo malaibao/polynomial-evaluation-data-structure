@@ -17,7 +17,7 @@ there are 2 text files containing a number each row. <br/>
 5 <br/>
 1 <br/>
 represents
-6x^4 + 3x^2 + 5X
+6x^4 + 3x^2 + 5x
 
 --num2.txt-- <br/>
 9 <br/>
